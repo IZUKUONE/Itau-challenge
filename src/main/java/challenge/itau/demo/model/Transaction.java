@@ -4,6 +4,7 @@ import java.time.OffsetDateTime;
 
 public class Transaction {
 
+    public OffsetDateTime getDateHour;
     private double value;
     private OffsetDateTime dateHour;
 

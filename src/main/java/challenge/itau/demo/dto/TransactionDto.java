@@ -9,7 +9,7 @@ import java.time.OffsetDateTime;
 public class TransactionDto {
 
     @NotNull
-    @Min(1)
+    @Min(0)
     private double value;
 
     @NotNull

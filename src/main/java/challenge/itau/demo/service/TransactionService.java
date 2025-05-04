@@ -26,4 +26,7 @@ public class TransactionService {
                 .mapToDouble(Transaction::getValue)
                 .summaryStatistics();
     }
+
+    public void addTransaction(Transaction transaction) {
+    }
 }
