@@ -1,4 +1,4 @@
-package challenge.itau.demo.model;
+package challenge.itau.model;
 
 import java.time.OffsetDateTime;
 
