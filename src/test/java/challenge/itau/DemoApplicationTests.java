@@ -1,4 +1,4 @@
-package challenge.itau.demo;
+package challenge.itau;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

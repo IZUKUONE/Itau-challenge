@@ -1,9 +1,10 @@
-package challenge.itau.demo.model;
+package challenge.itau.model;
 
 import java.time.OffsetDateTime;
 
 public class Transaction {
 
+    public OffsetDateTime getDateHour;
     private double value;
     private OffsetDateTime dateHour;
 

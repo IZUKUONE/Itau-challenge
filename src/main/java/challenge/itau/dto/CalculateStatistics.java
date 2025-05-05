@@ -1,4 +1,4 @@
-package challenge.itau.demo.dto;
+package challenge.itau.dto;
 
 import java.util.DoubleSummaryStatistics;
 
